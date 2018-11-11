@@ -1,0 +1,38 @@
+.#MMMMMMMMMMMMMMMMMMM+                            /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+ 7$MMMMMMMMMMMMMMMMMM+                            /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+  +MMMMMMMMMMMMMMMM$7                             /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+  .#MMMMMMMMMMMMM$/                               /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+   7$MMMMMMMMMM$/                                 /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+   /$MMMMMMMM$+                                   /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+  .#MMMMMMMMM#                                    /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+  /$MMMMMMMMM$+                                   /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+   /$MMMMMMMM$7                                   /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+    /$MMMMMMM#                                    /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+     7MMMMMM$/ .                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+     .#MMMMMMMMMMMM$#/                            /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+      7$MMM$#7,,   7$M$+7,                        /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+  /#$MMMMMMMM$$#/    .///                         /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+ /$MMMMMMMMMMMMMM$+                               /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+   7##$MMMMMMMMMMM$/                              /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+     7#$MMMMM#7//,                                /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+      .#MMM$7                                     /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$#$MMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$##7,    +$MMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.      .#MMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/      +MMMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/       7$MMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7           /$MMMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM#,             /$MMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMM$#.               +MMM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMM$#/               /$MM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$M$,          /$MM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7/         /$MM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7.       .#MM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.       #MM#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7        7$M#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.        ,$M#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#          #M#
+                                                  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+          #M#

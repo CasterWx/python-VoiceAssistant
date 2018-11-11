@@ -1,0 +1,38 @@
+                                                 /++###$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                 .7+###$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  /++###$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  ,7+###$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  .7+###$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  .7+###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  .7+###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  .7+###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                                  ,7+###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$$$#
+                                                  /++###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMM$7      
+                                                 ,7+###$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMM$+.    
+                                                 /++###$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#    
+                                                /7+###$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$+    
+                                               /7+####$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/ 
+                                              /7+####$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$+
+                                             /7++###$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                           ,7++####$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                         ./7++####$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                       ./7++####$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+                                     ./7++####$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7
+                                  ./77++####$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#
+.                              ,/7+++#####$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$
++77/,.                   .,//77+++######$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$
+###++++777////////////777++++#######$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$
+$###########+++++++++###########$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$
+$$$$$$$###################$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#7
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7/
+MMMMMMM$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#./
+MMMMMMMMMMMMMMM$$$$$$$$$$$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/ ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7  ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$+   ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#    ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/    ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+     ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#     ,

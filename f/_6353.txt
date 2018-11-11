@@ -1,0 +1,38 @@
+      .#$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#+/                       +$MMMMM#
+     7$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$#7,                       ,#MMMM#
+   ,#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$$$$$MMMMMMMMMMMMMMMMMMMMM$#+/                         7$MM#
+  7$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/    ,/7#$$MMMMMMMMMMMMMMMMMM$$#7.                         /$M#
+ +$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7         /+#$MMMMMMMMMMMMMMMMMM$#7,                          .##
+#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.          /+$$MMMMMMMMMMMMMMMMM$#7,                            /
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.          /+$$MMMMMMMMMMMMMMMMM$#7,                            /
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#+/          7#$MMMMMMMMMMMMMMMMMM$#7.                            ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$#7,      .+$$MMMMMMMMMMMMMMMMMM$$+/                             ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$##+++#$$MMMMMMMMMMMMMMMMMMMMM$#7.                             ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#+,                              ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+/                               ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+/                                ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7,                                 ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/                                   ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.                                    ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/                                       ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+,                                         ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$#/                                             ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#+/.                                                 ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+,                                                      ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+,                                                         ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.                                                           ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.                                                             ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$+/                                                               ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7,                                                                ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.                                                                 ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7,                                                                  ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+/                    ./+####+/,                                     ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7.                  7#$MMMMMM$$#+/                                   ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$+/                 /+$MMMMMMMMMM$#+/.                                 ,
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#+/                .7#$MMMMMMMMMMM$#7,                                 ,
+$MMMMMMMMMMMMMMMMMMMMMMMMMMMM$#7,                ,7#$MMMMMMMMMMM$#+,                                 .
+/$MMMMMMMMMMMMMMMMMMMMMMMMMMM$#7/                 /+$$MMMMMMMMMM$#/                                 /+
+ .#MMMMMMMMMMMMMMMMMMMMMMMMMM$#+/                 ./+#$MMMMMMMM$+,                                 7$#
+   +$MMMMMMMMMMMMMMMMMMMMMMMM$$+/.                  ./7##$$$$#/.                                  #MM#
+    /$MMMMMMMMMMMMMMMMMMMMMMMM$#7/                                                              /$MMM#
+      +$MMMMMMMMMMMMMMMMMMMMMM$$+7.                                                           .#$MMMM#

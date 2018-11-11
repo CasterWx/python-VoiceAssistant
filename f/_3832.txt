@@ -1,0 +1,38 @@
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+/++/                                                                                                  
+$MM$+.                                                                                               .
+MMMM$#/                                                                                              /
+MMMMM$#,     ..                                                                                      /
+MMMMMM$#/,/7#$#7                                                                                     /
+MMMMMMMM$$$$$#+/                                                                                    .+
+MMMMMMMMM$#/.                                                                                      .7$
+MMMMMMMMM$+.                                                                                      ,+$M
+MMMMMMMMMM$$+,                                                                                   /#$MM
+MMMMMMMMMMMM$#7                                                           ///,.               ./#$MMMM
+MMMMMMMMMMMMMM$7                                                        .7#$$$##77//,,,,//77+#$$MMMMMM
+MMMMMMMMMMMMMM$#/                                                       .+$MMMMM$$$$$$$$$$$$MMMMMMMMMM
+MMMMMMMMMMMMMMM$+.                                                       ,7###$$$$$$$$$####++++++#$$MM
+MMMMMMMMMMMMM$#+,                   /#/        /+#+,                        ..,,,,,,,...          ./+$
+MMMMMMMMMMMM$+.                      7#/     .#MMMM$+                                                7
+MMMMMMMMMMMM$7                        ,+7    /$MMMMM$/                                               /
+MMMMMMMMMMMM$7                          +#,  .+$MMMMM+                                               ,
+MMMMMM$$#$$$$7.                          +$$$$MMMMMMM#.                                              ,
+MMMMM$7. .,//                            /$MMMMMMMMMM$/                                              ,
+$MM$#/                                    #MM$$MMMMMMM#.                                             .
+#$#7.                                      //+$MMMMM$M$/                                              
+                                              #MMMMMMM$7                                              
+                                             ,$MMMMMMM$,                                              
+                                             /$MMMMMM#/                                               
+                                             +MMMMMMM#.                                               
+                                            .#MMMMMMM$7                                               
+                                             7$MMMMMMM$/                                       /#$#7. 
+                        .//7/                /$MMMMMMMM$7                     ,+###++7/.      ,#$$#/  

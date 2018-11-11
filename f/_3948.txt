@@ -1,0 +1,38 @@
+                    .#MMM$/                                                                           
+                     #MMM$####$$MM$#.                                                                 
+                     7$MMMMMMMMMMM$+                                                                  
+          ,//////////+$MMMMMMMMM$+.                                                                   
+         7$MMMMMMMMMMMMMMMMMMMMMM#/                                                                   
+          ,77//,. ,#MMMMMMMMMMMMM$/                                                                   
+                  ,#MMMMMMMMMMMM$7                                 ..,,,.                             
+                 /+$MMMMMMMMMMM$7                            7#$MMMMMMMMMMM$#7                        
+            ,+$$MMMMMMMMMMMMMM$/                          .#$MMMMMMMMMMMMMMMMMM#,                     
+           .7#$MMM$$MMMMMMMMMM#               ,###/      7$MMMMMMMMMMMMMMMMMMMMM$7                    
+             ./#MMMMMMMMMMMM$#.               +MMM#,   .#MMMMMMMMMMMMMMMMMMMMMMMM$7                   
+              /$MMMMMMMMMMM$7                 /$MM+   .+$MMMMMMMMMMMMMMMMMMMMMMMMMM+                  
+              .7+#MMMMMMMM#,                  /$M$7    7$MMMMMMMMMMMMMMMMMMMMMMMMMM$7                 
+                 7$MMMMMM$7                   /$M$/    ,#MMMMMMMMMMMMMMMMMMMMMMMMMMM#.                
+                 /$MMMMMM#                    /$M$/     ,7#$MMMMMMMMMMMMMMMMMMMMMMMM$7                
+                 7$MMMMM$+                    /$M$,      7$MMMMMMMMMMMMMMMMMMMMMMMMMM+                
+                .#MMMMMMM$+                   /$M$,      7$MMMMMMMMMMMMMMMMMMMMMMMMMM#                
+                +$MMMMMMMMM$+                 7$M#,       #MMMMMMMMMMMMMMMMMMMMMMMMMM#.               
+              /#MMMMMMMMMMMMM$#,              7$M#,       ,$MMMMMMMMMMMMMMMMMMMMMMMMM#.               
+             /$MMMMMMMMMMMMMMMM#.             7MM#,        ,+$MMMMMMMMMMMMMMMMMMMMMMM#                
+             +$MMMMMMMMMMMMMMMM$+             +MM$,         /$MM$MMMMMMMMMMMMMMMMMMMM7                
+            /$MMMMMMMMMMMMMMMMMMM$7           #MM$7         /$MMMMMMMMMMMMMMMMMMMMMM$/                
+           /$MMMMMMMMMMMMMMMMMMMMMMM#.       /$MM$7         +MMMMMMMMMMMMMMMMMMMMMMM#,                
+          /$MMMMMMMMMMMMMMMMMMMMMMMMM$#7     .#MM#,       +$MMMMMMMMMMMMMMMMMMMMMMMM#                 
+         /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$#/  .#MM#/#$$#,/#$MMMMMMMMMMMMMMMMMMMMMMMMM+                 
+        ,#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7 /$MM$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                 
+       /#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$77$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7                 
+      /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM7                 
+    ,#$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#                 
+   +$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#,                
+   +$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$7/#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/                
+     .7#$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/  /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+                
+          ,//7+#$MMM$$$MMMMMMMMMMMMMMMMMMMMMMMM$/   /$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#.               
+                /$MM$##MMMMMMMMMMMMMMMMMMMMMMMM$,    7$MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#,               
+                 +$MM$#$MMMMMMMMMMMMMMMMMMMMMMM#.     ,#MMMMMMMMMMMMMMMMMMMMMMMMMMMMM$/               
+                 ,#MM$##MMMMMMMMMMMMMMMMMMM$$MM#       /$MMMMMMMMMMMMMMMMMMMMMMMMMMMM$7               
+                  7$MM$$MMMMMMMMMMMMMMMMM$+/$MM#       .#MMMMMMMMMMMMMMMMMMMMMMMMMMMM$7               
+                   #MMMMMMMMMMMMMMMMMMMM$/ +MMM#,       #MMMMMMMMMMMMMMMMMMMMMMMMMMMM$7               

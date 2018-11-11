@@ -1,0 +1,38 @@
+$$##$$$$$$$##+77,            ,/7++777++##$$$#+77////7##########+/.                   ./+##++77///77+#$
+$$###$$$$$#+7//.              ,//////77+#$$$#+/,,,/7+#####++##+/                     ,/++++7/,    ,7#$
+$$####$$##+7/,.                     .,7+#$$$#+/, ./7+####+77+#+,               .,,,,,/7+++7//     .7#$
+$########+7/.                         /+#####+/, .7+####+7/,7+7.               ,//////7++7/,      ,7#$
+$#######+7/.                          /+####++/,./7##$##+7,  .                 ,///////7/,        /+#$
+$#++7+++7/.                          ./+#####+///7+#$$$#+7,                    .,,,//////.       ,7+$$
+#+7/////,.                            ,/7++#++7/7+##$$$##7.                        ,,,...        /7#$$
+#+/.                                    ,7+++7777+#$$$#++7,                        ,,.           /7#$$
+#+/                                      ,777//7+##$##+77/.                         ..     ,,,. ./7#$$
+#+/                                       .////7++##+++77/.                             .,/77/,..,/+#$
+#+7.                                      ..../7777777+++7.                            ./7+++7,. ,/+#$
+##7,                                        .,////,,/7+##+,                            /7+###7/,./7+#$
+$#+/,                                      .//7//..,7+#$$#7.                           .7+###+7//77#$$
+$#+7,                                     ./7+77/,/7+##$$##7.                           ./++++#####$$M
+$$#+7/.                                  ./7+#+777++######+7,                             .//7++##$$MM
+M$$#+7/                                 ./++####+###$$##+777,                              .,/7+#$$MMM
+MM$$#+7.                                ,7+#####$$$$$$$#+7//.                                ,7+#$MMMM
+MM$$##7,                                    ./7##++###+/                                     /7#$$MMMM
+$$$##+7/                                                                                    ,7#$$MMMMM
+$##++7//                                                                                   ./+#$MMMMM$
+##+77//,                                                                                  ./+#$MMMMMM$
+##+777//,                                                                                 /+#$MMMMMMM$
+$$##++7/,                                                                               ./+$$MMMMMMMMM
+M$$$$##+7,                                                                            ./+#$$MMMMMMMMMM
+MMMM$$$$##/                                                                           /+#$MMMMMMMMMMMM
+MMMMMMM$$$/                                                                             /$MMMMMMMMMMMM
+MMMMMMMMMM$$7                                                                            #MMMMMMMMMMMM
+MMMMMMMMMMMM$+               ./,   ,,                           .                     .#$MMMMMMMMMMMMM
+MMMMMMMMMMMMM$+               /7777+/                           //                   7$MMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMM$7               +#$$7                           +#,                /#$MMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMM$+            /$M$/                           +#             /7#$MMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMM+            ,$M$,                           ++            ,$MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMM$/            .#M#.                           77             #MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMM+             /+/                            //            ,#MMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMM$+                                                         #MMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMM#                                                       #MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMM+                                                     7$MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMM$7                                                   /$MMMMMMMMMMMMMMMMMMMMMMMMM

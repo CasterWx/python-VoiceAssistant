@@ -1,0 +1,56 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: _01 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\lenovo\AppData\Local\Temp\RSP4D6F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/_01.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"H:\work\PythonChat\PythonChat\f\_01.c"
+]
+Creating command line "cl.exe @C:\Users\lenovo\AppData\Local\Temp\RSP4D6F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+_01.c
+H:\work\PythonChat\PythonChat\f\_01.c(76) : error C2143: syntax error : missing ';' before 'type'
+H:\work\PythonChat\PythonChat\f\_01.c(77) : error C2143: syntax error : missing ';' before 'type'
+H:\work\PythonChat\PythonChat\f\_01.c(78) : error C2065: 'i' : undeclared identifier
+H:\work\PythonChat\PythonChat\f\_01.c(80) : error C2143: syntax error : missing ';' before 'type'
+H:\work\PythonChat\PythonChat\f\_01.c(82) : error C2143: syntax error : missing ';' before 'type'
+H:\work\PythonChat\PythonChat\f\_01.c(83) : error C2065: 'j' : undeclared identifier
+H:\work\PythonChat\PythonChat\f\_01.c(83) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(83) : warning C4024: 'shu' : different types for formal and actual parameter 2
+H:\work\PythonChat\PythonChat\f\_01.c(84) : error C2065: 'j1' : undeclared identifier
+H:\work\PythonChat\PythonChat\f\_01.c(84) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(84) : warning C4024: 'strcat' : different types for formal and actual parameter 1
+H:\work\PythonChat\PythonChat\f\_01.c(84) : warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(84) : warning C4024: 'strcat' : different types for formal and actual parameter 2
+H:\work\PythonChat\PythonChat\f\_01.c(85) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(85) : warning C4024: 'strcat' : different types for formal and actual parameter 1
+H:\work\PythonChat\PythonChat\f\_01.c(86) : error C2275: 'FILE' : illegal use of this type as an expression
+        d:\新建文件夹 (2)\include\stdio.h(156) : see declaration of 'FILE'
+H:\work\PythonChat\PythonChat\f\_01.c(86) : error C2065: 'p' : undeclared identifier
+H:\work\PythonChat\PythonChat\f\_01.c(87) : warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(87) : warning C4024: 'fopen' : different types for formal and actual parameter 1
+H:\work\PythonChat\PythonChat\f\_01.c(87) : warning C4047: '=' : 'int ' differs in levels of indirection from 'struct _iobuf *'
+H:\work\PythonChat\PythonChat\f\_01.c(87) : warning C4047: '==' : 'int ' differs in levels of indirection from 'void *'
+H:\work\PythonChat\PythonChat\f\_01.c(91) : error C2223: left of '->_flag' must point to struct/union
+H:\work\PythonChat\PythonChat\f\_01.c(91) : error C2065: 'k' : undeclared identifier
+H:\work\PythonChat\PythonChat\f\_01.c(91) : warning C4047: 'function' : 'char *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(91) : warning C4024: 'fgets' : different types for formal and actual parameter 1
+H:\work\PythonChat\PythonChat\f\_01.c(91) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(91) : warning C4024: 'fgets' : different types for formal and actual parameter 3
+H:\work\PythonChat\PythonChat\f\_01.c(93) : warning C4047: 'function' : 'struct _iobuf *' differs in levels of indirection from 'int '
+H:\work\PythonChat\PythonChat\f\_01.c(93) : warning C4024: 'fclose' : different types for formal and actual parameter 1
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+_01.obj - 11 error(s), 18 warning(s)
+</pre>
+</body>
+</html>
