@@ -1,0 +1,2 @@
+# python-VoiceAssistant
+:stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye: python开发的基于Windows平台API语音接口的语音管家。
