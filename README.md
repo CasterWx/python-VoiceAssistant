@@ -1,6 +1,12 @@
 # python-VoiceAssistant
 :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye: python开发的基于Windows平台API语音接口的语音管家。
 
+
+###### 欢迎关注公众号，开启和我的交流
+
+![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
+
+
 ### 功能
 
 * 语音回答
